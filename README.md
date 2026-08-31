@@ -29,4 +29,4 @@ How to structure a professional security report
 
 How to think like both an IT support technician and a SOC analyst
 
-## 📊 Sample Output
+
